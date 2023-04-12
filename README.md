@@ -19,3 +19,18 @@ System was developed primarily using PHP. PHP is a server-side scripting languag
 In addition to PHP, other programming languages and technologies were used to develop the system, such as HTML, CSS, JavaScript, and SQL. HTML and CSS are used to create the structure and visual layout of web pages, while JavaScript is used to add interactivity and dynamic behavior to the web pages. SQL is a language used to manage and manipulate data stored in a database.
 
 Overall, the combination of these languages and technologies can provide a robust and effective framework for developing web applications
+#Database Image 
+![image](https://user-images.githubusercontent.com/85405920/231379318-26c72dc4-59f2-443e-bf8b-bf8c9737f07a.png)
+
+#First page of Website
+![image](https://user-images.githubusercontent.com/85405920/231379477-f23e9475-f99c-401f-9510-4e2f7509219c.png)
+
+#Doctor's Login 
+![image](https://user-images.githubusercontent.com/85405920/231379595-43baf940-af65-4ca7-875a-92b782775f66.png)
+
+#Admin Login
+![image](https://user-images.githubusercontent.com/85405920/231379684-d35befc4-1a37-469f-86a2-bb9be55c16f7.png)
+
+#Admins Portal
+![image](https://user-images.githubusercontent.com/85405920/231380145-07d567e8-10dc-40f4-9403-7652ca422bc2.png)
+
